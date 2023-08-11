@@ -1,0 +1,4 @@
+import:
+- "satori://code/semgrep-secrets.yml"
+dummy:
+- [ echo "" ]
